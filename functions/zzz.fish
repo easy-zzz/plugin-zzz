@@ -1,3 +1,4 @@
 function zzz -d "My package"
-  # Package entry-point
+  # Точка входа пакета
+  echo ttttt
 end
